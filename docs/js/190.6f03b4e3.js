@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[190],{4968:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v("系统设置页面")])},r=[],l={name:"Setting"},s=l,a=u(1001),c=(0,a.Z)(s,t,r,!1,null,"0245eeae",null),f=c.exports}}]);
+//# sourceMappingURL=190.6f03b4e3.js.map
